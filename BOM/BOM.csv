@@ -1,0 +1,37 @@
+Id;Symbol;Reference;Units;Part Value
+1;UART1;JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical;1;UART
+2;H4,H3,H2,H1;MountingHole_2.5mm_Pad;4;MountingHole
+3;Analog5;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;ap5
+4;Digital5;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;dp5
+5;Analog4;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;ap4
+6;Digital4;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;dp4
+7;Analog3;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;ap3
+8;Digital3;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;dp3
+9;Analog2;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;ap2
+10;Analog1;JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical;1;ap1
+11;Y1;Crystal_HC49-4H_Vertical;1;16MHz
+12;U7;SOT-223-3_TabPin2;1;LM317_SOT-223
+13;U6;SSOP-16_3.9x4.9mm_P0.635mm;1;ADS7843E
+14;U5,U4,U3,U2;DIP-4_W7.62mm;4;EL817
+15;U1;TQFP-32_7x7mm_P0.8mm;1;ATmega328-AU
+16;SW1;SW_PUSH_6mm;1;SW_Push
+17;R11;R_1206_3216Metric;1;3k3
+18;R10,R3;R_1206_3216Metric;2;10k
+19;R9;R_1206_3216Metric;1;100k
+20;R7,R6;R_1206_3216Metric;2;1k
+21;R5,R4,R2,R1;R_1206_3216Metric;4;1K2
+22;Q5;SOT-89-3;1;TP0610L
+23;Q4,Q2;TO-263-2;2;TIP127
+24;Q3,Q1;TO-263-2;2;TIP122
+25;Touch_Panel_Connector1;JST_EH_S4B-EH_1x04_P2.50mm_Horizontal;1;Touch Panel
+26;Power1;TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal;1;Power
+27;Motor1;TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal;1;Motor
+28;J1;PinHeader_2x03_P2.00mm_Vertical;1;AVR-ISP-6
+29;D7;D_SC-80;1;D_Zener_Small
+30;D6,D5,D2,D1;D_0805_2012Metric;4;1N4001
+31;D4,D3;LED_0201_0603Metric;2;LED
+32;C10;CP_Elec_4x3;1;180uF
+33;C9;C_0603_1608Metric;1;110nF
+34;C8,C6,C5,C4,C1;C_0603_1608Metric;5;100nF
+35;C7;CP_Elec_4x3;1;10uF
+36;C3,C2;C_0201_0603Metric;2;23pF
